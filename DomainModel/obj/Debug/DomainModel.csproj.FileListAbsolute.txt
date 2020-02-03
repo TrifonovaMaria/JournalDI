@@ -1,0 +1,9 @@
+c:\users\mat16\documents\visual studio 2015\Projects\laba3\DomainModel\bin\Debug\DomainModel.dll
+c:\users\mat16\documents\visual studio 2015\Projects\laba3\DomainModel\bin\Debug\DomainModel.pdb
+c:\users\mat16\documents\visual studio 2015\Projects\laba3\DomainModel\obj\Debug\DomainModel.dll
+c:\users\mat16\documents\visual studio 2015\Projects\laba3\DomainModel\obj\Debug\DomainModel.pdb
+F:\МиС проект. СиТ\3!!!!!!!\laba3\DomainModel\bin\Debug\DomainModel.dll
+F:\МиС проект. СиТ\3!!!!!!!\laba3\DomainModel\bin\Debug\DomainModel.pdb
+F:\МиС проект. СиТ\3!!!!!!!\laba3\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+F:\МиС проект. СиТ\3!!!!!!!\laba3\DomainModel\obj\Debug\DomainModel.dll
+F:\МиС проект. СиТ\3!!!!!!!\laba3\DomainModel\obj\Debug\DomainModel.pdb

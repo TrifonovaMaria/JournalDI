@@ -1,0 +1,20 @@
+﻿@model DomainModel.Profit
+
+<div>
+    <h4>Подсчет прибыли</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Прибыль за неделю
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Summ)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Назад", "Index")
+</p>
+
